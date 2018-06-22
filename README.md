@@ -20,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-ACCopyrightTool::Renderer.copyright 'Alexandre Calaça', 'All rights reserved'
+AcCopyrightTool::Renderer.copyright 'Alexandre Calaça', 'All rights reserved'
 
 ## Development
 
